@@ -32,6 +32,12 @@ const Contact = () => {
       label: "LinkedIn",
       href: "https://www.linkedin.com/in/nidhivsharma/",
       color: "text-blue-500"
+    },
+    {
+      icon: <Github className="w-5 h-5" />,
+      label: "GitHub",
+      href: "https://github.com/nivish10",
+      color: "text-gray-300"
     }
   ];
 
