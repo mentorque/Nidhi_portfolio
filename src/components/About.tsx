@@ -41,29 +41,6 @@ const About = () => {
           </p>
         </div>
 
-        <div className="max-w-4xl mx-auto mb-16">
-          {/* Professional Summary */}
-          <Card className="card-gradient border-primary/20 shadow-elevated">
-            <CardContent className="p-8">
-              <h3 className="text-2xl font-bold mb-4 text-gradient">Professional Summary</h3>
-              <div className="space-y-4 text-muted-foreground">
-                <p>
-                  Business Analytics professional with 3+ years of experience turning complex data into actionable insights. 
-                  I help drive smarter decisions through performance analytics, dashboards, and AI-powered solutions.
-                </p>
-                <p>
-                  Achieved impacts like <span className="text-primary font-semibold">30% platform improvement</span>, sub-second latency, 
-                  and streamlined regulatory access. I bring strong stakeholder engagement, requirements analysis, and dashboard-building expertise.
-                </p>
-                <p>
-                  Open to opportunities in <span className="text-accent font-semibold">Ireland with Stamp 1G work authorization</span>, 
-                  ready to contribute to data-driven decision-making and business intelligence initiatives.
-                </p>
-              </div>
-            </CardContent>
-          </Card>
-        </div>
-
         {/* Skills Grid */}
         <div className="space-y-8">
           <h3 className="text-3xl font-bold text-center">
